@@ -1,6 +1,6 @@
-# work-linstener-client
+# 山西农大软件学院教务系统作业监听
 
-> A Vue.js project
+> 山西农业大学软件学院教务系统作业监听前端
 
 ## Build Setup
 
